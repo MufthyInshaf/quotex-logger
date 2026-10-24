@@ -1,5 +1,5 @@
-msg_id,msg_utc,text
-1031990,2026-10-22T08:02:11+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+channel,msg_id,msg_utc,text
+Secret_Quotex_Bot,1031990,2026-10-22T08:02:11+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  GBPJPY
 ┣🕓 TIME      ➜  14:03
 ┣⌛ EXPIRY    ➜  M1
@@ -15,9 +15,9 @@ msg_id,msg_utc,text
 ⤷ 
 
 📳 Signal Sent Successfully"
-1031991,2026-10-22T08:02:13+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1031991,2026-10-22T08:02:13+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1031992,2026-10-22T08:03:03+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1031992,2026-10-22T08:03:03+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 14:01
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -25,9 +25,9 @@ msg_id,msg_utc,text
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1031993,2026-10-22T08:03:07+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1031993,2026-10-22T08:03:07+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1031994,2026-10-22T08:04:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1031994,2026-10-22T08:04:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  14:05
 ┣⌛ EXPIRY    ➜  M1
@@ -43,9 +43,9 @@ msg_id,msg_utc,text
 ⤷ 
 
 📳 Signal Sent Successfully"
-1031995,2026-10-22T08:04:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1031995,2026-10-22T08:04:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1031996,2026-10-22T08:04:09+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1031996,2026-10-22T08:04:09+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 GBPJPY ┃ 🕓 14:03
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -53,9 +53,9 @@ msg_id,msg_utc,text
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1031997,2026-10-22T08:04:11+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1031997,2026-10-22T08:04:11+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1031998,2026-10-22T08:07:09+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1031998,2026-10-22T08:07:09+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 14:05
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -63,9 +63,9 @@ msg_id,msg_utc,text
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1031999,2026-10-22T08:07:12+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1031999,2026-10-22T08:07:12+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032000,2026-10-22T08:08:05+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032000,2026-10-22T08:08:05+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  14:09
 ┣⌛ EXPIRY    ➜  M1
@@ -81,9 +81,9 @@ msg_id,msg_utc,text
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032001,2026-10-22T08:08:07+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032001,2026-10-22T08:08:07+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032002,2026-10-22T08:09:37+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032002,2026-10-22T08:09:37+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 14:10
@@ -93,8 +93,8 @@ msg_id,msg_utc,text
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032003,2026-10-22T08:09:38+00:00,SIGNAL SCREENshot
-1032004,2026-10-22T08:10:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032003,2026-10-22T08:09:38+00:00,SIGNAL SCREENshot
+Secret_Quotex_Bot,1032004,2026-10-22T08:10:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 14:09
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -102,9 +102,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032005,2026-10-22T08:10:05+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032005,2026-10-22T08:10:05+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032006,2026-10-22T08:11:06+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032006,2026-10-22T08:11:06+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 14:10
@@ -115,8 +115,8 @@ Esse par: 11x5 (69%)
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032007,2026-10-22T08:11:09+00:00,RESULT SCREENshot
-1032008,2026-10-22T08:13:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032007,2026-10-22T08:11:09+00:00,RESULT SCREENshot
+Secret_Quotex_Bot,1032008,2026-10-22T08:13:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  14:14
 ┣⌛ EXPIRY    ➜  M1
@@ -132,9 +132,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032009,2026-10-22T08:13:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032009,2026-10-22T08:13:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032010,2026-10-22T08:16:03+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032010,2026-10-22T08:16:03+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 14:14
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -142,9 +142,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032011,2026-10-22T08:16:06+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032011,2026-10-22T08:16:06+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032012,2026-10-22T08:18:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032012,2026-10-22T08:18:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  14:19
 ┣⌛ EXPIRY    ➜  M1
@@ -160,9 +160,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032013,2026-10-22T08:18:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032013,2026-10-22T08:18:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032014,2026-10-22T08:20:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032014,2026-10-22T08:20:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  14:21
 ┣⌛ EXPIRY    ➜  M1
@@ -178,9 +178,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032015,2026-10-22T08:20:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032015,2026-10-22T08:20:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032016,2026-10-22T08:20:10+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032016,2026-10-22T08:20:10+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 14:19
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -188,9 +188,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032017,2026-10-22T08:20:14+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032017,2026-10-22T08:20:14+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032018,2026-10-22T08:22:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032018,2026-10-22T08:22:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  14:23
 ┣⌛ EXPIRY    ➜  M1
@@ -206,9 +206,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032019,2026-10-22T08:22:06+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032019,2026-10-22T08:22:06+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032020,2026-10-22T08:23:10+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032020,2026-10-22T08:23:10+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 14:21
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -216,9 +216,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032021,2026-10-22T08:23:14+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032021,2026-10-22T08:23:14+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032022,2026-10-22T08:24:05+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032022,2026-10-22T08:24:05+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 14:23
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -226,9 +226,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032023,2026-10-22T08:24:08+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032023,2026-10-22T08:24:08+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032024,2026-10-22T08:25:08+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032024,2026-10-22T08:25:08+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  GBPJPY
 ┣🕓 TIME      ➜  14:26
 ┣⌛ EXPIRY    ➜  M1
@@ -244,9 +244,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032025,2026-10-22T08:25:10+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032025,2026-10-22T08:25:10+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032026,2026-10-22T08:25:36+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032026,2026-10-22T08:25:36+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 14:26
@@ -256,8 +256,8 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032027,2026-10-22T08:25:38+00:00,SIGNAL SCREENshot
-1032028,2026-10-22T08:27:01+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032027,2026-10-22T08:25:38+00:00,SIGNAL SCREENshot
+Secret_Quotex_Bot,1032028,2026-10-22T08:27:01+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 GBPJPY ┃ 🕓 14:26
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -265,9 +265,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032029,2026-10-22T08:27:04+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032029,2026-10-22T08:27:04+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032030,2026-10-22T08:28:06+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032030,2026-10-22T08:28:06+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 14:26
@@ -278,8 +278,8 @@ Esse par: 11x6 (65%)
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032031,2026-10-22T08:28:08+00:00,RESULT SCREENshot
-1032032,2026-10-22T08:29:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032031,2026-10-22T08:28:08+00:00,RESULT SCREENshot
+Secret_Quotex_Bot,1032032,2026-10-22T08:29:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  14:30
 ┣⌛ EXPIRY    ➜  M1
@@ -295,9 +295,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032033,2026-10-22T08:29:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032033,2026-10-22T08:29:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032034,2026-10-22T08:32:03+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032034,2026-10-22T08:32:03+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 14:30
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -305,9 +305,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032035,2026-10-22T08:32:06+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032035,2026-10-22T08:32:06+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032036,2026-10-22T08:36:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032036,2026-10-22T08:36:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  14:37
 ┣⌛ EXPIRY    ➜  M1
@@ -323,9 +323,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032037,2026-10-22T08:36:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032037,2026-10-22T08:36:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032038,2026-10-22T08:38:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032038,2026-10-22T08:38:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  14:39
 ┣⌛ EXPIRY    ➜  M1
@@ -341,9 +341,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032039,2026-10-22T08:38:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032039,2026-10-22T08:38:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032040,2026-10-22T08:38:12+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032040,2026-10-22T08:38:12+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 14:37
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -351,9 +351,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032041,2026-10-22T08:38:16+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032041,2026-10-22T08:38:16+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032042,2026-10-22T08:41:08+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032042,2026-10-22T08:41:08+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  14:42
 ┣⌛ EXPIRY    ➜  M1
@@ -369,9 +369,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032043,2026-10-22T08:41:11+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032043,2026-10-22T08:41:11+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032044,2026-10-22T08:41:16+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032044,2026-10-22T08:41:16+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 14:39
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -379,9 +379,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032045,2026-10-22T08:41:18+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032045,2026-10-22T08:41:18+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032046,2026-10-22T08:44:03+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032046,2026-10-22T08:44:03+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 14:42
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -389,9 +389,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032047,2026-10-22T08:44:05+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032047,2026-10-22T08:44:05+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032048,2026-10-22T08:45:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032048,2026-10-22T08:45:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  14:46
 ┣⌛ EXPIRY    ➜  M1
@@ -407,9 +407,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032049,2026-10-22T08:45:07+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032049,2026-10-22T08:45:07+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032050,2026-10-22T08:47:04+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032050,2026-10-22T08:47:04+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 14:46
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -417,9 +417,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032051,2026-10-22T08:47:06+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032051,2026-10-22T08:47:06+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032052,2026-10-22T08:48:39+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032052,2026-10-22T08:48:39+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 14:49
@@ -429,8 +429,8 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032053,2026-10-22T08:48:49+00:00,SIGNAL SCREENshot
-1032054,2026-10-22T08:49:26+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032053,2026-10-22T08:48:49+00:00,SIGNAL SCREENshot
+Secret_Quotex_Bot,1032054,2026-10-22T08:49:26+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  GBPJPY
 ┣🕓 TIME      ➜  14:50
 ┣⌛ EXPIRY    ➜  M1
@@ -446,9 +446,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032055,2026-10-22T08:49:28+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032055,2026-10-22T08:49:28+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032056,2026-10-22T08:50:07+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032056,2026-10-22T08:50:07+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 14:49
@@ -459,8 +459,8 @@ Esse par: 12x6 (67%)
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032057,2026-10-22T08:50:18+00:00,RESULT SCREENshot
-1032058,2026-10-22T08:51:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032057,2026-10-22T08:50:18+00:00,RESULT SCREENshot
+Secret_Quotex_Bot,1032058,2026-10-22T08:51:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 GBPJPY ┃ 🕓 14:50
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -468,9 +468,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032059,2026-10-22T08:51:04+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032059,2026-10-22T08:51:04+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032060,2026-10-22T08:57:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032060,2026-10-22T08:57:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  14:58
 ┣⌛ EXPIRY    ➜  M1
@@ -486,9 +486,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032061,2026-10-22T08:57:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032061,2026-10-22T08:57:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032062,2026-10-22T08:58:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032062,2026-10-22T08:58:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  14:59
 ┣⌛ EXPIRY    ➜  M1
@@ -504,9 +504,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032063,2026-10-22T08:58:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032063,2026-10-22T08:58:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032064,2026-10-22T08:59:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032064,2026-10-22T08:59:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 14:58
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -514,9 +514,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032065,2026-10-22T08:59:05+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032065,2026-10-22T08:59:05+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032066,2026-10-22T09:00:05+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032066,2026-10-22T09:00:05+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 14:59
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -524,9 +524,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032067,2026-10-22T09:00:07+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032067,2026-10-22T09:00:07+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032068,2026-10-22T09:05:01+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032068,2026-10-22T09:05:01+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  15:06
 ┣⌛ EXPIRY    ➜  M1
@@ -542,9 +542,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032069,2026-10-22T09:05:04+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032069,2026-10-22T09:05:04+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032070,2026-10-22T09:06:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032070,2026-10-22T09:06:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  15:07
 ┣⌛ EXPIRY    ➜  M1
@@ -560,9 +560,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032071,2026-10-22T09:06:07+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032071,2026-10-22T09:06:07+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032072,2026-10-22T09:07:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032072,2026-10-22T09:07:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 15:06
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -570,9 +570,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032073,2026-10-22T09:07:05+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032073,2026-10-22T09:07:05+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032074,2026-10-22T09:08:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032074,2026-10-22T09:08:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 15:07
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -580,7 +580,7 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032075,2026-10-22T09:08:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032075,2026-10-22T09:08:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  15:09
 ┣⌛ EXPIRY    ➜  M1
@@ -596,11 +596,11 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032076,2026-10-22T09:08:07+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032076,2026-10-22T09:08:07+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032077,2026-10-22T09:08:09+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032077,2026-10-22T09:08:09+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032078,2026-10-22T09:08:41+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032078,2026-10-22T09:08:41+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  GBPJPY
 ┣🕓 TIME      ➜  15:09
 ┣⌛ EXPIRY    ➜  M1
@@ -616,9 +616,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032079,2026-10-22T09:08:43+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032079,2026-10-22T09:08:43+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032080,2026-10-22T09:10:04+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032080,2026-10-22T09:10:04+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 15:09
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -626,9 +626,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032081,2026-10-22T09:10:08+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032081,2026-10-22T09:10:08+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032082,2026-10-22T09:11:11+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032082,2026-10-22T09:11:11+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 GBPJPY ┃ 🕓 15:09
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -636,9 +636,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032083,2026-10-22T09:11:13+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032083,2026-10-22T09:11:13+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032084,2026-10-22T09:14:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032084,2026-10-22T09:14:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  15:15
 ┣⌛ EXPIRY    ➜  M1
@@ -654,9 +654,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032085,2026-10-22T09:14:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032085,2026-10-22T09:14:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032086,2026-10-22T09:17:04+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032086,2026-10-22T09:17:04+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 15:15
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -664,9 +664,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032087,2026-10-22T09:17:07+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032087,2026-10-22T09:17:07+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032088,2026-10-22T09:19:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032088,2026-10-22T09:19:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  15:20
 ┣⌛ EXPIRY    ➜  M1
@@ -682,9 +682,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032089,2026-10-22T09:19:07+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032089,2026-10-22T09:19:07+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032090,2026-10-22T09:22:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032090,2026-10-22T09:22:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 15:20
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -692,9 +692,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032091,2026-10-22T09:22:05+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032091,2026-10-22T09:22:05+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032092,2026-10-22T09:22:06+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032092,2026-10-22T09:22:06+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  15:23
 ┣⌛ EXPIRY    ➜  M1
@@ -710,9 +710,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032093,2026-10-22T09:22:10+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032093,2026-10-22T09:22:10+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032094,2026-10-22T09:23:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032094,2026-10-22T09:23:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  15:24
 ┣⌛ EXPIRY    ➜  M1
@@ -728,7 +728,7 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032095,2026-10-22T09:23:06+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032095,2026-10-22T09:23:06+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  15:24
 ┣⌛ EXPIRY    ➜  M1
@@ -744,11 +744,11 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032096,2026-10-22T09:23:08+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032096,2026-10-22T09:23:08+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032097,2026-10-22T09:23:10+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032097,2026-10-22T09:23:10+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032098,2026-10-22T09:25:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032098,2026-10-22T09:25:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 15:23
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -756,9 +756,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032099,2026-10-22T09:25:06+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032099,2026-10-22T09:25:06+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032100,2026-10-22T09:25:12+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032100,2026-10-22T09:25:12+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 15:24
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -766,9 +766,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032101,2026-10-22T09:25:14+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032101,2026-10-22T09:25:14+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032102,2026-10-22T09:26:03+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032102,2026-10-22T09:26:03+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 15:24
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -776,9 +776,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032103,2026-10-22T09:26:05+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032103,2026-10-22T09:26:05+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032104,2026-10-22T09:35:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032104,2026-10-22T09:35:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  15:36
 ┣⌛ EXPIRY    ➜  M1
@@ -794,9 +794,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032105,2026-10-22T09:35:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032105,2026-10-22T09:35:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032106,2026-10-22T09:38:10+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032106,2026-10-22T09:38:10+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 15:36
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -804,9 +804,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032107,2026-10-22T09:38:13+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032107,2026-10-22T09:38:13+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032108,2026-10-22T09:38:43+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032108,2026-10-22T09:38:43+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  15:39
 ┣⌛ EXPIRY    ➜  M1
@@ -822,9 +822,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032109,2026-10-22T09:38:48+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032109,2026-10-22T09:38:48+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032110,2026-10-22T09:39:01+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032110,2026-10-22T09:39:01+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  15:40
 ┣⌛ EXPIRY    ➜  M1
@@ -840,9 +840,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032111,2026-10-22T09:39:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032111,2026-10-22T09:39:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032112,2026-10-22T09:39:36+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032112,2026-10-22T09:39:36+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 15:40
@@ -852,8 +852,8 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032113,2026-10-22T09:39:38+00:00,SIGNAL SCREENshot
-1032114,2026-10-22T09:41:01+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032113,2026-10-22T09:39:38+00:00,SIGNAL SCREENshot
+Secret_Quotex_Bot,1032114,2026-10-22T09:41:01+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  15:42
 ┣⌛ EXPIRY    ➜  M1
@@ -869,9 +869,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032115,2026-10-22T09:41:04+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032115,2026-10-22T09:41:04+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032116,2026-10-22T09:41:09+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032116,2026-10-22T09:41:09+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 15:39
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -879,9 +879,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032117,2026-10-22T09:41:11+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032117,2026-10-22T09:41:11+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032118,2026-10-22T09:42:06+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032118,2026-10-22T09:42:06+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 15:40
@@ -892,8 +892,8 @@ Esse par: 12x7 (63%)
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032119,2026-10-22T09:42:07+00:00,RESULT SCREENshot
-1032120,2026-10-22T09:42:37+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032119,2026-10-22T09:42:07+00:00,RESULT SCREENshot
+Secret_Quotex_Bot,1032120,2026-10-22T09:42:37+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  GBPJPY
 ┣🕓 TIME      ➜  15:43
 ┣⌛ EXPIRY    ➜  M1
@@ -909,9 +909,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032121,2026-10-22T09:42:39+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032121,2026-10-22T09:42:39+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032122,2026-10-22T09:43:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032122,2026-10-22T09:43:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  15:44
 ┣⌛ EXPIRY    ➜  M1
@@ -927,9 +927,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032123,2026-10-22T09:43:10+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032123,2026-10-22T09:43:10+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032124,2026-10-22T09:44:05+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032124,2026-10-22T09:44:05+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 15:42
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -937,9 +937,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032125,2026-10-22T09:44:08+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032125,2026-10-22T09:44:08+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032126,2026-10-22T09:45:04+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032126,2026-10-22T09:45:04+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 GBPJPY ┃ 🕓 15:43
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -947,9 +947,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032127,2026-10-22T09:45:06+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032127,2026-10-22T09:45:06+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032128,2026-10-22T09:46:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032128,2026-10-22T09:46:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 15:44
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -957,9 +957,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032129,2026-10-22T09:46:04+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032129,2026-10-22T09:46:04+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032130,2026-10-22T09:50:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032130,2026-10-22T09:50:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  15:51
 ┣⌛ EXPIRY    ➜  M1
@@ -975,9 +975,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032131,2026-10-22T09:50:08+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032131,2026-10-22T09:50:08+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032132,2026-10-22T09:53:04+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032132,2026-10-22T09:53:04+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 15:51
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -985,9 +985,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032133,2026-10-22T09:53:07+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032133,2026-10-22T09:53:07+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032134,2026-10-22T09:56:23+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032134,2026-10-22T09:56:23+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  15:57
 ┣⌛ EXPIRY    ➜  M1
@@ -1003,9 +1003,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032135,2026-10-22T09:56:26+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032135,2026-10-22T09:56:26+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032136,2026-10-22T09:58:04+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032136,2026-10-22T09:58:04+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 15:57
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1013,9 +1013,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032137,2026-10-22T09:58:08+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032137,2026-10-22T09:58:08+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032138,2026-10-22T09:58:53+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032138,2026-10-22T09:58:53+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  15:59
 ┣⌛ EXPIRY    ➜  M1
@@ -1031,9 +1031,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032139,2026-10-22T09:58:56+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032139,2026-10-22T09:58:56+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032140,2026-10-22T10:00:03+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032140,2026-10-22T10:00:03+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 15:59
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1041,9 +1041,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032141,2026-10-22T10:00:06+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032141,2026-10-22T10:00:06+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032142,2026-10-22T10:02:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032142,2026-10-22T10:02:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  16:03
 ┣⌛ EXPIRY    ➜  M1
@@ -1059,9 +1059,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032143,2026-10-22T10:02:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032143,2026-10-22T10:02:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032144,2026-10-22T10:04:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032144,2026-10-22T10:04:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 16:03
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1069,9 +1069,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032145,2026-10-22T10:04:06+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032145,2026-10-22T10:04:06+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032146,2026-10-22T10:05:33+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032146,2026-10-22T10:05:33+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  GBPJPY
 ┣🕓 TIME      ➜  16:06
 ┣⌛ EXPIRY    ➜  M1
@@ -1087,9 +1087,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032147,2026-10-22T10:05:35+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032147,2026-10-22T10:05:35+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032148,2026-10-22T10:06:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032148,2026-10-22T10:06:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  16:07
 ┣⌛ EXPIRY    ➜  M1
@@ -1105,9 +1105,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032149,2026-10-22T10:06:04+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032149,2026-10-22T10:06:04+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032150,2026-10-22T10:06:43+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032150,2026-10-22T10:06:43+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 16:07
@@ -1117,8 +1117,8 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032151,2026-10-22T10:06:49+00:00,SIGNAL SCREENshot
-1032152,2026-10-22T10:07:01+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032151,2026-10-22T10:06:49+00:00,SIGNAL SCREENshot
+Secret_Quotex_Bot,1032152,2026-10-22T10:07:01+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 GBPJPY ┃ 🕓 16:06
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1126,9 +1126,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032153,2026-10-22T10:07:02+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032153,2026-10-22T10:07:02+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032154,2026-10-22T10:08:09+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032154,2026-10-22T10:08:09+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 16:07
@@ -1139,8 +1139,8 @@ Esse par: 13x7 (65%)
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032155,2026-10-22T10:08:11+00:00,RESULT SCREENshot
-1032156,2026-10-22T10:08:12+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032155,2026-10-22T10:08:11+00:00,RESULT SCREENshot
+Secret_Quotex_Bot,1032156,2026-10-22T10:08:12+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 16:07
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1148,9 +1148,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032157,2026-10-22T10:08:14+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032157,2026-10-22T10:08:14+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032158,2026-10-22T10:11:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032158,2026-10-22T10:11:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  16:12
 ┣⌛ EXPIRY    ➜  M1
@@ -1166,9 +1166,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032159,2026-10-22T10:11:04+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032159,2026-10-22T10:11:04+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032160,2026-10-22T10:14:09+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032160,2026-10-22T10:14:09+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 16:12
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1176,9 +1176,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032161,2026-10-22T10:14:12+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032161,2026-10-22T10:14:12+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032162,2026-10-22T10:18:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032162,2026-10-22T10:18:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  16:19
 ┣⌛ EXPIRY    ➜  M1
@@ -1194,9 +1194,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032163,2026-10-22T10:18:06+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032163,2026-10-22T10:18:06+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032164,2026-10-22T10:21:03+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032164,2026-10-22T10:21:03+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 16:19
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1204,9 +1204,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032165,2026-10-22T10:21:06+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032165,2026-10-22T10:21:06+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032166,2026-10-22T10:27:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032166,2026-10-22T10:27:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  16:28
 ┣⌛ EXPIRY    ➜  M1
@@ -1222,9 +1222,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032167,2026-10-22T10:27:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032167,2026-10-22T10:27:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032168,2026-10-22T10:27:31+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032168,2026-10-22T10:27:31+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  16:28
 ┣⌛ EXPIRY    ➜  M1
@@ -1240,9 +1240,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032169,2026-10-22T10:27:33+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032169,2026-10-22T10:27:33+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032170,2026-10-22T10:28:06+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032170,2026-10-22T10:28:06+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  16:29
 ┣⌛ EXPIRY    ➜  M1
@@ -1258,9 +1258,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032171,2026-10-22T10:28:10+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032171,2026-10-22T10:28:10+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032172,2026-10-22T10:28:36+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032172,2026-10-22T10:28:36+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 16:29
@@ -1270,8 +1270,8 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032173,2026-10-22T10:28:38+00:00,SIGNAL SCREENshot
-1032174,2026-10-22T10:29:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032173,2026-10-22T10:28:38+00:00,SIGNAL SCREENshot
+Secret_Quotex_Bot,1032174,2026-10-22T10:29:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  16:30
 ┣⌛ EXPIRY    ➜  M1
@@ -1287,9 +1287,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032175,2026-10-22T10:29:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032175,2026-10-22T10:29:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032176,2026-10-22T10:30:03+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032176,2026-10-22T10:30:03+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 16:29
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1297,9 +1297,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032177,2026-10-22T10:30:06+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032177,2026-10-22T10:30:06+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032178,2026-10-22T10:30:06+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032178,2026-10-22T10:30:06+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 16:29
@@ -1310,8 +1310,8 @@ Esse par: 14x7 (67%)
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032179,2026-10-22T10:30:08+00:00,RESULT SCREENshot
-1032180,2026-10-22T10:30:10+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032179,2026-10-22T10:30:08+00:00,RESULT SCREENshot
+Secret_Quotex_Bot,1032180,2026-10-22T10:30:10+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 16:28
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1319,9 +1319,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032181,2026-10-22T10:30:13+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032181,2026-10-22T10:30:13+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032182,2026-10-22T10:30:19+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032182,2026-10-22T10:30:19+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 16:28
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1329,9 +1329,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032183,2026-10-22T10:30:21+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032183,2026-10-22T10:30:21+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032184,2026-10-22T10:31:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032184,2026-10-22T10:31:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 16:30
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1339,9 +1339,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032185,2026-10-22T10:31:04+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032185,2026-10-22T10:31:04+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032186,2026-10-22T10:38:36+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032186,2026-10-22T10:38:36+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 16:39
@@ -1351,8 +1351,8 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032187,2026-10-22T10:38:38+00:00,SIGNAL SCREENshot
-1032188,2026-10-22T10:41:06+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032187,2026-10-22T10:38:38+00:00,SIGNAL SCREENshot
+Secret_Quotex_Bot,1032188,2026-10-22T10:41:06+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 16:39
@@ -1363,8 +1363,8 @@ Esse par: 14x8 (64%)
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032189,2026-10-22T10:41:08+00:00,RESULT SCREENshot
-1032190,2026-10-22T10:43:01+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032189,2026-10-22T10:41:08+00:00,RESULT SCREENshot
+Secret_Quotex_Bot,1032190,2026-10-22T10:43:01+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  16:44
 ┣⌛ EXPIRY    ➜  M1
@@ -1380,9 +1380,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032191,2026-10-22T10:43:03+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032191,2026-10-22T10:43:03+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032192,2026-10-22T10:43:05+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032192,2026-10-22T10:43:05+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  16:44
 ┣⌛ EXPIRY    ➜  M1
@@ -1398,9 +1398,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032193,2026-10-22T10:43:07+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032193,2026-10-22T10:43:07+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032194,2026-10-22T10:45:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032194,2026-10-22T10:45:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 16:44
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1408,9 +1408,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032195,2026-10-22T10:45:04+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032195,2026-10-22T10:45:04+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032196,2026-10-22T10:45:38+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032196,2026-10-22T10:45:38+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  GBPJPY
 ┣🕓 TIME      ➜  16:46
 ┣⌛ EXPIRY    ➜  M1
@@ -1426,9 +1426,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032197,2026-10-22T10:45:41+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032197,2026-10-22T10:45:41+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032198,2026-10-22T10:46:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032198,2026-10-22T10:46:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 16:44
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1436,9 +1436,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032199,2026-10-22T10:46:04+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032199,2026-10-22T10:46:04+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032200,2026-10-22T10:48:01+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032200,2026-10-22T10:48:01+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 GBPJPY ┃ 🕓 16:46
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1446,9 +1446,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032201,2026-10-22T10:48:03+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032201,2026-10-22T10:48:03+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032202,2026-10-22T10:48:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032202,2026-10-22T10:48:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  16:49
 ┣⌛ EXPIRY    ➜  M1
@@ -1464,9 +1464,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032203,2026-10-22T10:48:07+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032203,2026-10-22T10:48:07+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032204,2026-10-22T10:50:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032204,2026-10-22T10:50:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 16:49
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1474,9 +1474,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032205,2026-10-22T10:50:04+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032205,2026-10-22T10:50:04+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032206,2026-10-22T10:53:36+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032206,2026-10-22T10:53:36+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 16:54
@@ -1486,8 +1486,8 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032207,2026-10-22T10:53:38+00:00,SIGNAL SCREENshot
-1032208,2026-10-22T10:56:09+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032207,2026-10-22T10:53:38+00:00,SIGNAL SCREENshot
+Secret_Quotex_Bot,1032208,2026-10-22T10:56:09+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 16:54
@@ -1498,8 +1498,8 @@ Esse par: 15x8 (65%)
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032209,2026-10-22T10:56:10+00:00,RESULT SCREENshot
-1032210,2026-10-22T11:01:01+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032209,2026-10-22T10:56:10+00:00,RESULT SCREENshot
+Secret_Quotex_Bot,1032210,2026-10-22T11:01:01+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  GBPJPY
 ┣🕓 TIME      ➜  17:02
 ┣⌛ EXPIRY    ➜  M1
@@ -1515,9 +1515,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032211,2026-10-22T11:01:03+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032211,2026-10-22T11:01:03+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032212,2026-10-22T11:04:01+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032212,2026-10-22T11:04:01+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  17:05
 ┣⌛ EXPIRY    ➜  M1
@@ -1533,9 +1533,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032213,2026-10-22T11:04:04+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032213,2026-10-22T11:04:04+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032214,2026-10-22T11:04:10+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032214,2026-10-22T11:04:10+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 GBPJPY ┃ 🕓 17:02
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1543,9 +1543,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032215,2026-10-22T11:04:12+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032215,2026-10-22T11:04:12+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032216,2026-10-22T11:06:04+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032216,2026-10-22T11:06:04+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 17:05
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1553,9 +1553,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032217,2026-10-22T11:06:08+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032217,2026-10-22T11:06:08+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032218,2026-10-22T11:08:44+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032218,2026-10-22T11:08:44+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  17:09
 ┣⌛ EXPIRY    ➜  M1
@@ -1571,9 +1571,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032219,2026-10-22T11:08:47+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032219,2026-10-22T11:08:47+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032220,2026-10-22T11:11:05+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032220,2026-10-22T11:11:05+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 17:09
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1581,9 +1581,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032221,2026-10-22T11:11:08+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032221,2026-10-22T11:11:08+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032222,2026-10-22T11:12:50+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032222,2026-10-22T11:12:50+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  17:13
 ┣⌛ EXPIRY    ➜  M1
@@ -1599,9 +1599,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032223,2026-10-22T11:12:53+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032223,2026-10-22T11:12:53+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032224,2026-10-22T11:14:03+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032224,2026-10-22T11:14:03+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 17:13
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1609,9 +1609,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032225,2026-10-22T11:14:06+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032225,2026-10-22T11:14:06+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032226,2026-10-22T11:16:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032226,2026-10-22T11:16:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  17:17
 ┣⌛ EXPIRY    ➜  M1
@@ -1627,9 +1627,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032227,2026-10-22T11:16:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032227,2026-10-22T11:16:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032228,2026-10-22T11:17:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032228,2026-10-22T11:17:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  17:18
 ┣⌛ EXPIRY    ➜  M1
@@ -1645,9 +1645,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032229,2026-10-22T11:17:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032229,2026-10-22T11:17:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032230,2026-10-22T11:18:04+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032230,2026-10-22T11:18:04+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 17:17
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1655,9 +1655,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032231,2026-10-22T11:18:07+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032231,2026-10-22T11:18:07+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032232,2026-10-22T11:18:15+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032232,2026-10-22T11:18:15+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  GBPJPY
 ┣🕓 TIME      ➜  17:19
 ┣⌛ EXPIRY    ➜  M1
@@ -1673,9 +1673,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032233,2026-10-22T11:18:17+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032233,2026-10-22T11:18:17+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032234,2026-10-22T11:19:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032234,2026-10-22T11:19:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 17:18
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1683,9 +1683,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032235,2026-10-22T11:19:05+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032235,2026-10-22T11:19:05+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032236,2026-10-22T11:20:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032236,2026-10-22T11:20:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 GBPJPY ┃ 🕓 17:19
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1693,9 +1693,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032237,2026-10-22T11:20:04+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032237,2026-10-22T11:20:04+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032238,2026-10-22T11:22:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032238,2026-10-22T11:22:04+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  17:23
 ┣⌛ EXPIRY    ➜  M1
@@ -1711,9 +1711,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032239,2026-10-22T11:22:07+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032239,2026-10-22T11:22:07+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032240,2026-10-22T11:24:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032240,2026-10-22T11:24:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 17:23
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1721,9 +1721,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032241,2026-10-22T11:24:05+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032241,2026-10-22T11:24:05+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032242,2026-10-22T11:27:36+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032242,2026-10-22T11:27:36+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 17:28
@@ -1733,8 +1733,8 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032243,2026-10-22T11:27:38+00:00,SIGNAL SCREENshot
-1032244,2026-10-22T11:29:06+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032243,2026-10-22T11:27:38+00:00,SIGNAL SCREENshot
+Secret_Quotex_Bot,1032244,2026-10-22T11:29:06+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 17:28
@@ -1745,8 +1745,8 @@ Esse par: 16x8 (67%)
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032245,2026-10-22T11:29:08+00:00,RESULT SCREENshot
-1032246,2026-10-22T11:34:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032245,2026-10-22T11:29:08+00:00,RESULT SCREENshot
+Secret_Quotex_Bot,1032246,2026-10-22T11:34:03+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  GBPJPY
 ┣🕓 TIME      ➜  17:35
 ┣⌛ EXPIRY    ➜  M1
@@ -1762,9 +1762,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032247,2026-10-22T11:34:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032247,2026-10-22T11:34:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032248,2026-10-22T11:34:07+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032248,2026-10-22T11:34:07+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  17:35
 ┣⌛ EXPIRY    ➜  M1
@@ -1780,9 +1780,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032249,2026-10-22T11:34:09+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032249,2026-10-22T11:34:09+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032250,2026-10-22T11:35:49+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032250,2026-10-22T11:35:49+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  17:36
 ┣⌛ EXPIRY    ➜  M1
@@ -1798,9 +1798,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032251,2026-10-22T11:35:51+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032251,2026-10-22T11:35:51+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032252,2026-10-22T11:37:13+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032252,2026-10-22T11:37:13+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 GBPJPY ┃ 🕓 17:35
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1808,9 +1808,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032253,2026-10-22T11:37:16+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032253,2026-10-22T11:37:16+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032254,2026-10-22T11:37:22+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032254,2026-10-22T11:37:22+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 17:35
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1818,9 +1818,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032255,2026-10-22T11:37:24+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032255,2026-10-22T11:37:24+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032256,2026-10-22T11:38:02+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032256,2026-10-22T11:38:02+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 17:36
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1828,9 +1828,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032257,2026-10-22T11:38:05+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032257,2026-10-22T11:38:05+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032258,2026-10-22T11:40:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032258,2026-10-22T11:40:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  17:41
 ┣⌛ EXPIRY    ➜  M1
@@ -1846,9 +1846,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032259,2026-10-22T11:40:04+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032259,2026-10-22T11:40:04+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032260,2026-10-22T11:40:54+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032260,2026-10-22T11:40:54+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  17:41
 ┣⌛ EXPIRY    ➜  M1
@@ -1864,9 +1864,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032261,2026-10-22T11:40:57+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032261,2026-10-22T11:40:57+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032262,2026-10-22T11:41:36+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032262,2026-10-22T11:41:36+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 17:42
@@ -1876,8 +1876,8 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032263,2026-10-22T11:41:38+00:00,SIGNAL SCREENshot
-1032264,2026-10-22T11:43:04+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032263,2026-10-22T11:41:38+00:00,SIGNAL SCREENshot
+Secret_Quotex_Bot,1032264,2026-10-22T11:43:04+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 17:41
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1885,9 +1885,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032265,2026-10-22T11:43:06+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032265,2026-10-22T11:43:06+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032266,2026-10-22T11:43:13+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032266,2026-10-22T11:43:13+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 17:41
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1895,9 +1895,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032267,2026-10-22T11:43:16+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032267,2026-10-22T11:43:16+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032268,2026-10-22T11:44:07+00:00,"[**] Quotex NonSTOP Bot  [**]
+Secret_Quotex_Bot,1032268,2026-10-22T11:44:07+00:00,"[**] Quotex NonSTOP Bot  [**]
 
  📊 CADCHF-OTCq
  🕓 17:42
@@ -1908,8 +1908,8 @@ Esse par: 17x8 (68%)
 
 JOIN OUR QUOTEX VIP & GET VIP BOT
 https://broker-qx.pro/sign-up/?lid=2162932"
-1032269,2026-10-22T11:44:11+00:00,RESULT SCREENshot
-1032270,2026-10-22T11:50:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032269,2026-10-22T11:44:11+00:00,RESULT SCREENshot
+Secret_Quotex_Bot,1032270,2026-10-22T11:50:02+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CADCHF-OTCq
 ┣🕓 TIME      ➜  17:51
 ┣⌛ EXPIRY    ➜  M1
@@ -1925,9 +1925,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032271,2026-10-22T11:50:05+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032271,2026-10-22T11:50:05+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032272,2026-10-22T11:52:12+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032272,2026-10-22T11:52:12+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CADCHF-OTCq ┃ 🕓 17:51
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1935,9 +1935,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032273,2026-10-22T11:52:14+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032273,2026-10-22T11:52:14+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032274,2026-10-22T11:56:57+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032274,2026-10-22T11:56:57+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  CHFJPY-OTCq
 ┣🕓 TIME      ➜  17:57
 ┣⌛ EXPIRY    ➜  M1
@@ -1953,9 +1953,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032275,2026-10-22T11:57:00+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032275,2026-10-22T11:57:00+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032276,2026-10-22T11:58:03+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032276,2026-10-22T11:58:03+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 CHFJPY-OTCq ┃ 🕓 17:57
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1963,9 +1963,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032277,2026-10-22T11:58:05+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032277,2026-10-22T11:58:05+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032278,2026-10-22T11:58:11+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032278,2026-10-22T11:58:11+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  BRLUSD-OTCq
 ┣🕓 TIME      ➜  17:59
 ┣⌛ EXPIRY    ➜  M1
@@ -1981,9 +1981,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032279,2026-10-22T11:58:14+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032279,2026-10-22T11:58:14+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032280,2026-10-22T12:00:04+00:00,"========== RESULT ===========
+Secret_Quotex_Bot,1032280,2026-10-22T12:00:04+00:00,"========== RESULT ===========
 ╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 🐲 BRLUSD-OTCq ┃ 🕓 17:59
 ╚═━━━━━━━━━ ◢◤◆◥◣ ━━━━━━━━━═╝
@@ -1991,9 +1991,9 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 
 🌐 Telegram Click Here
 📳 Result Sent Successfully"
-1032281,2026-10-22T12:00:07+00:00,"⚡️Send Results Screenshot
+Secret_Quotex_Bot,1032281,2026-10-22T12:00:07+00:00,"⚡️Send Results Screenshot
 🇧🇩"
-1032282,2026-10-22T12:03:56+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
+Secret_Quotex_Bot,1032282,2026-10-22T12:03:56+00:00,"╔═━━━━━━━━━ ◥◣◆◢◤ ━━━━━━━━━═╗
 ┣📊 PAIR      ➜  GBPJPY
 ┣🕓 TIME      ➜  18:04
 ┣⌛ EXPIRY    ➜  M1
@@ -2009,16 +2009,16 @@ https://broker-qx.pro/sign-up/?lid=2162932"
 ⤷ 
 
 📳 Signal Sent Successfully"
-1032283,2026-10-22T12:03:58+00:00,"⚡️Send Signal Screenshot
+Secret_Quotex_Bot,1032283,2026-10-22T12:03:58+00:00,"⚡️Send Signal Screenshot
 🇧🇩"
-1032284,2026-10-22T12:06:49+00:00,"⚠️ MAINTENANCE BREAK 🛠
+Secret_Quotex_Bot,1032284,2026-10-22T12:06:49+00:00,"⚠️ MAINTENANCE BREAK 🛠
 
 Our service is temporarily under maintenance. 
 Please wait a little while for activation. 🔄
 
 🙏 Thank you for your patience!
 ✅ We’ll be back soon."
-1032285,2026-10-22T12:21:55+00:00,"🚀 New SProuts Signals are Live! 
+Secret_Quotex_Bot,1032285,2026-10-22T12:21:55+00:00,"🚀 New SProuts Signals are Live! 
 
 Don't miss out on the latest market gap. 
 High accuracy signals are now available for all members.
@@ -2040,7 +2040,7 @@ https://t.me/+paD1-x7sz2lkOWY9
 
 #TradingSignals #BinaryOptions 
 #BugSignal #ProfitAlert"
-1032289,2026-10-23T12:48:56+00:00,"🔘Limited Access Only! 
+Secret_Quotex_Bot,1032289,2026-10-23T12:48:56+00:00,"🔘Limited Access Only! 
      Join Fast
 
 🔗 https://t.me/+paD1-x7sz2lkOWY9
